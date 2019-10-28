@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.lleohao.sample
+mac:
+  category: public.app-category.productivity
+electronVersion: 7.0.0
